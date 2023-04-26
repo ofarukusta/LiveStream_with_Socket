@@ -4,6 +4,7 @@
 
 Sistemin çalışma prensibi, IP eşitlemesinin ardından socket kütüphanesi ile görüntü haberleşmesinin gerçekleştirilmesidir. VEGA takımı sistemi, WiFi haberleşmesi ile kullanmıştır.
 <br/>
+![image](https://user-images.githubusercontent.com/110857814/215561823-4512705d-df33-4ac8-93ff-438ff6be0b60.png)
 <br/>
 <br/>
  Kaydedilen video Teknofest Sunucu heyetine FileZilla Client ile aktarılmaktadır. Projeyi kullanacak olan takımların, kayıt işlemi sonrası IP adresleri ile birlikte FileZilla Client üzerinden oturum açmaları gerekmektedir.
@@ -28,4 +29,6 @@ python yer_istasyonu.py
 ## YAZARLAR:
 [@ofarukusta](https://github.com/ofarukusta) <br/>
 [@eceilk](https://github.com/eceilk) <br/>
-[@esmanurcigdem](https://github.com/esma4)
+[@esmanurcigdem](https://github.com/esma4) <br/>
+
+
