@@ -16,6 +16,15 @@ Videounun anlık olarak sunucuya basılması işlemini terminal üzerinden aşa�
 128k –f mpegts udp://@235.10.10.10:1001” 
 ```
 Bu kodu çalıştırabilmek için açık kaynak kütüphaneli ffmpeg uygulamasını indirmiş olmanız gerekmektedir. Ayrıca koddaki UDP haberleşmesi ile birlikte girilen IP adresleri takıma ve sunucuya özgün olacağı için her takımın IP linkleri farklı olacaktır.
+
+# Hava Aracı İçerisinde Çalıştırılacak Olan Kod Bütünü
+```
+python jetson.py
+```
+# Yer Kontrol İstasyonunda Çalıştırılacak Olan Kod Bütünü
+```
+python yer_istasyonu.py
+```
 ## YAZARLAR:
 [@ofarukusta](https://github.com/ofarukusta) <br/>
 [@eceilk](https://github.com/eceilk) <br/>
